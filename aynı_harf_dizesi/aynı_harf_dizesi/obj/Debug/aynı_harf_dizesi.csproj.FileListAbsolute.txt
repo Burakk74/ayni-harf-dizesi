@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\aynı_harf_dizesi\aynı_harf_dizesi\bin\Debug\aynı_harf_dizesi.exe.config
+C:\Users\User\source\repos\aynı_harf_dizesi\aynı_harf_dizesi\bin\Debug\aynı_harf_dizesi.exe
+C:\Users\User\source\repos\aynı_harf_dizesi\aynı_harf_dizesi\bin\Debug\aynı_harf_dizesi.pdb
+C:\Users\User\source\repos\aynı_harf_dizesi\aynı_harf_dizesi\obj\Debug\aynı_harf_dizesi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\aynı_harf_dizesi\aynı_harf_dizesi\obj\Debug\aynı_harf_dizesi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\aynı_harf_dizesi\aynı_harf_dizesi\obj\Debug\aynı_harf_dizesi.exe
+C:\Users\User\source\repos\aynı_harf_dizesi\aynı_harf_dizesi\obj\Debug\aynı_harf_dizesi.pdb
